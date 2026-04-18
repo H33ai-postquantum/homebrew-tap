@@ -1,13 +1,13 @@
 class Cachee < Formula
   desc "Post-quantum caching service with nanosecond reads and PQ attestation"
   homepage "https://cachee.ai"
-  version "0.1.1"
+  version "0.1.2"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/H33ai-postquantum/cachee-cli/releases/download/v0.1.1/cachee-0.1.1-aarch64-apple-darwin.tar.gz"
-      sha256 "a3b4c92722fb390f11a11748890ece77924941d69bbddc73a7b91d55d9a4817a"
+      url "https://github.com/H33ai-postquantum/cachee-cli/releases/download/v0.1.2/cachee-0.1.2-aarch64-apple-darwin.tar.gz"
+      sha256 "e400e10ba84a51c607bdb381492b29b958f74b2c4abb68c1262b6498e4e3ed20"
     end
   end
 
