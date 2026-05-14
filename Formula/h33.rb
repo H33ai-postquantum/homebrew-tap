@@ -7,7 +7,7 @@ class H33 < Formula
   on_macos do
     on_arm do
       url "https://github.com/H33ai-postquantum/h33-cli-rs/releases/download/v0.2.0/h33-0.2.0-aarch64-apple-darwin.tar.gz"
-      sha256 "53434b80e840acad28b4ef49437123577e8491b33961e98922fb9d4266440a8e"
+      sha256 "fab5ba5bd75a93d7dcb057547cdedeff04dfe72a6b1d7af43f207ddf1b507f3c"
     end
   end
 
